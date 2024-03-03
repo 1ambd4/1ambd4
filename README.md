@@ -2,7 +2,7 @@
 
 ### Software Engineer from China
 
-- 🔭 I’m currently studying in [USTC](http://ustc.edu)
+- 🔭 I’m second-year master student at [USTC](http://ustc.edu)
 - 📝 I regularly write articles on [Blog](https://1ambd4.site/)
 - 📫 If you want to contact me [Email](mailto:dr.chen@mail.ustc.edu.cn)
 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ambd4&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1ambd4&show_icons=true&theme=buefy&hide_border=true" alt="1ambd4's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ambd4&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,Roff" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
